@@ -1,0 +1,11 @@
+/* Mobile dropdown background */
+.mobile-menu-bg {
+    background-color: #f0f0f0;
+}
+
+/* Tall section styling */
+.tall-section {
+    background-color: #d9edf7;
+    height: 1000px;
+    padding: 20px;
+}
